@@ -1,2 +1,41 @@
-# .github
-[Information Island Prisoner's Association]
+
+# [Information Island Prisoner's Association] 프로젝트 이름
+# 프로젝트 로고 <img width="128" height="128" alt="Gemini_Generated_Image_463suy463suy463s_11zon" src="https://github.com/user-attachments/assets/e5859ce9-68e8-4df7-b862-1c8ccf79811f" />
+
+
+-----
+
+## 프로젝트 이름 프로젝트를 소개합니다\!
+
+하츄핑 프로젝트 설명
+
+-----
+
+## 📌 진행 상황 확인
+
+프로젝트의 상세한 진행 상황과 업데이트는 아래 Notion 페이지에서 확인하실 수 있습니다.
+
+➡️ **[Notion에서 자세한 진행사항 보러가기](_____)**
+
+-----
+
+## 🙌 팀원 소개
+
+저희 ___ 프로젝트는 다음과 같은 열정적인 팀원들로 구성되어 있습니다:
+
+  * **김성혁**
+  * **손영웅**
+  * **조강모**
+  * **추교준**
+  * **한금준**
+  
+
+
+-----
+
+## 🌈 Contribution Guidelines
+
+____프로젝트에 기여하고자 하는 모든 개발자분들은 다음 컨벤션을 준수하여 효율적이고 체계적인 협업을 지향합니다.
+
+---
+궁금한 점이 있으시거나 프로젝트 참여에 관심이 있으시다면 언제든지 문의해주세요\!
