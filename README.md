@@ -1,6 +1,6 @@
 
 # [Information Island Prisoner's Association] 프로젝트 이름
-# 프로젝트 로고 <img width="128" height="128" alt="Gemini_Generated_Image_463suy463suy463s_11zon" src="https://github.com/user-attachments/assets/e5859ce9-68e8-4df7-b862-1c8ccf79811f" />
+# 프로젝트 로고 
 
 
 -----
